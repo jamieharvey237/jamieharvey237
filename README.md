@@ -11,6 +11,6 @@ I'm a third-year Aerospace Engineering student at the University of Manchester, 
 ### 🧠 Tech Proficiency
 * **Languages:** Python, MATLAB
 * **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib
-* **Tools:** LaTeX, Jupyter Notebook
+* **Tools:** LaTeX, Jupyter Notebook, GitHub
 
 Take a look at some of my pinned projects!
