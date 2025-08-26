@@ -9,7 +9,7 @@ I'm a third-year Aerospace Engineering student at the University of Manchester, 
 *   **Risk Management:** Applying statistical methods to quantify portfolio risk and understand its impact on investors.
 
 ### 🧠 Tech Proficiency
-* **Languages:** Python, MATLAB
+* **Languages:** Python, MATLAB, SQL
 * **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib
 * **Tools:** LaTeX, Jupyter Notebook, GitHub
 
