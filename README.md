@@ -12,7 +12,7 @@ I'm a third-year Aerospace Engineering student at the University of Manchester, 
 
 * **Languages:** Python, MATLAB, SQL
 * **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib
-* **Tools:** LaTeX, Jupyter Notebook, GitHub, test
+* **Tools:** LaTeX, Jupyter Notebook, GitHub
 
 Take a look at some of my pinned projects!
 
