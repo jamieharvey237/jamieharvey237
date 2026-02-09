@@ -1,6 +1,6 @@
 ## Hi there, I'm Jamie👋
 
-I'm a third-year Aerospace Engineering student at the University of Manchester, keen to leverage my strong quantitative foundation to explore and solve complex real-world problems. My approach to learning is hands-on: I build interactive Python projects to further both my coding ability and understanding of real-world mechanisms. 
+I'm a third-year Aerospace Engineering student at the University of Manchester, keen to leverage my strong quantitative foundation to explore and solve complex problems. My approach to learning is hands-on: I build interactive Python projects to further both my coding ability and understanding of real-world mechanisms. 
 
 ### 🔭 Areas of Interests
 
