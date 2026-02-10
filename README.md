@@ -10,7 +10,7 @@ I'm a third-year Aerospace Engineering student at the University of Manchester, 
 
 ### 🧠 Tech Proficiency
 
-* **Languages:** Python, MATLAB, SQL
+* **Languages:** Python, MATLAB
 * **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib, PyTorch, Scikit-learn
 * **Tools:** LaTeX, Jupyter Notebook, GitHub
 
